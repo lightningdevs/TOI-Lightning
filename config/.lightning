@@ -1,0 +1,70 @@
+[
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0K000001EmRfSAK"
+        },
+        "Id": "0Ad0K000001EmRfSAK",
+        "AuraDefinitionBundleId": "0Ab0K000000IQ9jSAG",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0K000000IQ9jSAG"
+            },
+            "DeveloperName": "CaseApproval"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0K000001EmR1SAK"
+        },
+        "Id": "0Ad0K000001EmR1SAK",
+        "AuraDefinitionBundleId": "0Ab0K000000IQ9jSAG",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0K000000IQ9jSAG"
+            },
+            "DeveloperName": "CaseApproval"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0K000001EmRaSAK"
+        },
+        "Id": "0Ad0K000001EmRaSAK",
+        "AuraDefinitionBundleId": "0Ab0K000000IQ9jSAG",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0K000000IQ9jSAG"
+            },
+            "DeveloperName": "CaseApproval"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Ad0K000001EmRkSAK"
+        },
+        "Id": "0Ad0K000001EmRkSAK",
+        "AuraDefinitionBundleId": "0Ab0K000000IQAISA4",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Ab0K000000IQAISA4"
+            },
+            "DeveloperName": "CaseApprovalApp"
+        },
+        "DefType": "APPLICATION",
+        "Format": "XML"
+    }
+]

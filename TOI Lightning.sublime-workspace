@@ -1,0 +1,584 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"stg"
+			],
+			[
+				"s",
+				"stg"
+			],
+			[
+				"old",
+				"OldStageList"
+			],
+			[
+				"pa",
+				"parent_id__c"
+			],
+			[
+				"stage",
+				"Stage_History__c"
+			],
+			[
+				"Sta",
+				"Stage_History__c"
+			],
+			[
+				"set",
+				"setPlainTextBody"
+			],
+			[
+				"Email_",
+				"Email_Add_for_Equipment_List__c"
+			],
+			[
+				"em",
+				"emailAdd"
+			],
+			[
+				"co",
+				"apex:commandButton"
+			],
+			[
+				"in",
+				"apex:inputTextarea"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"id",
+				"idValue"
+			],
+			[
+				"opp",
+				"oppIdList"
+			],
+			[
+				"ol",
+				"oldOpp"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"al",
+				"always"
+			],
+			[
+				"P",
+				"PLDSize"
+			],
+			[
+				"final",
+				"finalVal"
+			],
+			[
+				"int",
+				"integer"
+			],
+			[
+				"Pld",
+				"PLDList1"
+			],
+			[
+				"fin",
+				"finalMap"
+			],
+			[
+				"sh",
+				"showHeader\t(Boolean)"
+			],
+			[
+				"o",
+				"oppIDList"
+			],
+			[
+				"a",
+				"Accid"
+			],
+			[
+				"ex",
+				"extensions\t(String)"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"S",
+				"Send"
+			],
+			[
+				"D",
+				"Details"
+			],
+			[
+				"Opp",
+				"Opportunity"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"O",
+				"Opportunity"
+			],
+			[
+				"Op",
+				"OpportunityProducts"
+			],
+			[
+				"re",
+				"renderAs\t(String)"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"key",
+				"Keyval"
+			],
+			[
+				"v",
+				"value\t(Object)"
+			],
+			[
+				"va",
+				"var\t(String)"
+			],
+			[
+				"Port",
+				"Ported_Lines__c"
+			],
+			[
+				"Use",
+				"UserIdList"
+			],
+			[
+				"add",
+				"addr"
+			],
+			[
+				"acc",
+				"accd"
+			],
+			[
+				"Accide",
+				"Accident__c"
+			],
+			[
+				"A",
+				"AccountId"
+			],
+			[
+				"si",
+				"PUBLIC size() \tInteger"
+			],
+			[
+				"Acc",
+				"account"
+			],
+			[
+				"use",
+				"userList"
+			],
+			[
+				"at",
+				"action\t(ApexPages.Action)"
+			],
+			[
+				"input",
+				"apex:inputText"
+			],
+			[
+				"f",
+				"apex:form"
+			],
+			[
+				"lea",
+				"LeadDML"
+			],
+			[
+				"l",
+				"listsrt"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"ow",
+				"ownerId"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "TOI Lightning.sublime-project",
+			"settings":
+			{
+				"buffer_size": 683,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Gaurav/Documents/TOI Lightning"
+	],
+	"file_history":
+	[
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/AccountCallFlowDocument.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/classes/AccountFormsController.cls",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/AccountForms.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/classes/OppProductAndFamily.cls",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/MassAddEditPhoneLineDetail.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/MassAddCFDLines.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/PhoneLineAutomator.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/CFDAutomator.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/MassEditPLDCallFlow.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/CallFlowDocumentExcel.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/EmailEquipmentDetails.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/EmailCFD.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/classes/EmailCFDController.cls",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/classes/EmailCFDControllerTest.cls",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/classes/UploadOpptyAttachmentController.cls",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/UploadOpportunityAttachment.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/ProductDetails.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/CallFlowDocument.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/MassEditPhoneLineDetail.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/triggers/LogActivityHistoryForFrozenPLD.trigger",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/classes/UploadOpptyAttach_Test.cls",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/BSACustomLink.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/EquipmentDetails.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/classes/BSACustomLinkController.cls",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/classes/UpdateOppOwnerReassignmentController.cls",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/triggers/UpdateOpportunityOwnerReassignment.trigger",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/ProposalQuote.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/Quote.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/BusinessServiceChangeOrder.page",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/triggers/UpdateManagerEmail.trigger",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/triggers/UpdateServiceabilitySR.trigger",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/triggers/UpdateOrder.trigger",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/triggers/CreateCase.trigger",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/triggers/AccountReassignment.trigger",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/CallFlowDocument.page-meta.xml",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/pages/ProposalQuote.page-meta.xml",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/classes/UtilClass.cls",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/triggers/DisallowCreateOpptAcctChannel.trigger",
+		"/C/Users/Gaurav/Documents/Vast-PartialSB/src/triggers/RestrictMultiplePrimaryConOnAcc.trigger",
+		"/C/Users/Gaurav/Documents/VAST SB/src/classes/BSACustomLinkController.cls",
+		"/C/Users/Gaurav/Documents/TUASB/src/triggers/SendEmailOnContentDocument.trigger",
+		"/C/Users/Gaurav/Documents/TUASB/src/triggers/UpdateSurveyFromLead.trigger",
+		"/C/Users/Gaurav/Documents/TUASB/src/triggers/sendEmailWhenOppWon.trigger",
+		"/C/Users/Gaurav/Documents/TUASB/src/triggers/sendEmailForAccident.trigger",
+		"/C/Users/Gaurav/Documents/TUASB/src/classes/sendEmailForAccidentHelper.cls",
+		"/C/Users/Gaurav/Documents/TUASB/src/classes/sendEmailWhenOppWonHandler.cls",
+		"/C/Users/Gaurav/Documents/TUASB/src/triggers/UpdateAccountEmail.trigger",
+		"/C/Users/Gaurav/Documents/TUASB/src/classes/sendEmailWhenOppWonTest.cls",
+		"/C/Users/Gaurav/Documents/TUASB/src/triggers/sendAttachmentForAccidient.trigger",
+		"/C/Users/Gaurav/Documents/TUASB/src/classes/sendAttachmentForAccidientHelper.cls",
+		"/C/Users/Gaurav/Documents/TUASB/src/classes/sendAttachmentForAccidientTest.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/OppProductAndFamily.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/AutoLeadCreationTestClass.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/SobjectToLeadTest.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/ConvertLeadFromSobjectCtrl.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/ConvertLeadMultiple.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/triggers/PopulateWOWAddressIDOnAccount.trigger",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/PopulateWOWAddressIDOnAccountTest.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/pages/BSACustomLink.page",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/BSACustomLinkController.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/UploadOpptyAttachmentController.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/AttachAttachmentToOppDetailsHelper.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/triggers/AttachAttachmentToOppDetails.trigger",
+		"/C/Users/Gaurav/Documents/ALT37/src/triggers/UpdateAttachmentDetail.trigger",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/PDFUtilClass.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/UploadConstructionNoteDetailController.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/UploadConstructionNoteDetailTest.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/UploadConstructionAttachment_Test.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/classes/UploadConstructionAttachmentController.cls",
+		"/C/Users/Gaurav/Documents/ALT37/src/pages/UploadNoteDetailsConstruction.page",
+		"/C/Users/Gaurav/Documents/ALT37/src/pages/UploadConstructionAttachment.page",
+		"/C/Users/Gaurav/Documents/ALT37/src/pages/Upload_Oppty_Attachment.page",
+		"/C/Users/Gaurav/Documents/ALT34/src/pages/Quote.page",
+		"/C/Users/Gaurav/Documents/ALT34/src/pages/CheckRequestForm.page",
+		"/C/Users/Gaurav/Documents/ALT34/src/pages/CustomerAgreement.page",
+		"/C/Users/Gaurav/Documents/ALT34/src/pages/LetterOfAgency.page",
+		"/C/Users/Gaurav/Documents/ALT34/src/pages/ProposalQuote.page",
+		"/C/Users/Gaurav/Documents/ALT34/src/pages/RESLetterOfAgency.page",
+		"/C/Users/Gaurav/Documents/ALT34/src/pages/CSR_Request.page",
+		"/C/Users/Gaurav/Documents/ALT34/src/pages/Customer_Profile.page",
+		"/C/Users/Gaurav/Documents/ALT34/src/pages/ContractForms_PDF.page",
+		"/C/Users/Gaurav/Documents/ALT34/src/pages/Partnership_Release_Agreement.page",
+		"/C/Users/Gaurav/Documents/ALT34/src/pages/SequenceOfEvents.page",
+		"/C/Users/Gaurav/Documents/ALT34/src/triggers/createNewLeadOppStageCloseLost.trigger",
+		"/C/Users/Gaurav/Documents/ALT34/src/classes/createNewLeadOppStageCloseLostHelper.cls",
+		"/C/Users/Gaurav/Documents/ALT34/src/classes/ConstructionEmailNotificationTest.cls"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Call_Flow_Document",
+			"200px",
+			"250px",
+			"542px",
+			"%",
+			"Line_Type__c ='res",
+			"Keys_s_will_be_hidden__c",
+			"accList16",
+			"Friday_End_Time__c",
+			"acc.id",
+			"Someone_will_be_home__c",
+			"accList27",
+			"Lead",
+			",\n",
+			"Markup",
+			"saveAsActivity",
+			"saveStandardAttachment",
+			"oName",
+			"ConvertLeadMultiple",
+			"userIdNameMapSZ",
+			"calledFromPage",
+			"Number_Of_Floors_Locatio",
+			"} ",
+			"After_Hours_Name__r",
+			"Phone_Vendor_Contact__r",
+			"!opp.Phone_Vendor_Contact__r.MobilePhone",
+			"Phone_Vendor_Contact__r",
+			"{!opp.Phone_Vendor_Contact__r.MobilePhone}",
+			"customerprofile",
+			"Demarc_Location_A__c",
+			"PQRCOMPLEX",
+			"PQR_ComplexSec",
+			"generatePartOfComplex",
+			"srf",
+			"Logo2018WholeSale",
+			"construction__c ",
+			"construction ",
+			"customer "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"200px",
+			"250px",
+			"125px",
+			"AccountId",
+			"string"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "TOI Lightning.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TOI Lightning.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

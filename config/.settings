@@ -1,0 +1,17 @@
+{
+    "projectName": "TOI Lightning",
+    "username": "gaurav.khandekar@cg.com",
+    "id": "9886c180-a8a1-11e9-996f-1dcb5b0560d3",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://toi-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Users\\Gaurav\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
